@@ -1,0 +1,3 @@
+This lab covers basic Git and GitHub operations.
+We created a repository, added files, committed changes,
+and pushed the project to GitHub.
